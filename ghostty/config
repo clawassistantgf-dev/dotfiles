@@ -1,0 +1,7 @@
+background = #1C6B35
+foreground = #fcf1ae
+cursor-color = #833012
+cursor-style = block
+term = xterm-256color
+cursor-style-blink = false
+shell-integration-features = no-cursor
